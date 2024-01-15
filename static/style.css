@@ -121,7 +121,7 @@ body {
     top: 100%;
     left: 0;
     width: 100%;
-    height: auto; /* Adjusted to auto */
+    height: 0; /* set to zero  */
     background: rgba(0, 0, 0, .1);
     backdrop-filter: blur(50px);
     transition: .3s ease;
